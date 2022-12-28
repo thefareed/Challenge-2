@@ -172,14 +172,15 @@ nav a:hover{
      padding-right: 100px;
 }
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 576px){
 main{
     width: 70vh; 
     padding-left: 20px;
+    padding-right: 10px;
 }
 
      .img-1 img{
-        width: 60%;
+        width: 50%;
      }
 
      .bg-image img{
@@ -228,4 +229,9 @@ main{
 
 }
 
+@media screen and (max-width: 414px){
+    main{
+        
+    }
+}
      
