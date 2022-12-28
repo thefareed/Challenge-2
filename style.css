@@ -67,8 +67,9 @@ nav a:hover{
 }
 
 .first-part{
-    display: flex;
+    display: flex;   
 }
+
 .first-part .head{
     font-weight:bolder;
     font-size: 45px;
@@ -84,11 +85,11 @@ nav a:hover{
 }
 
 .first-partdsmall button{
-    margin-top: 40px;
+    margin-top: 30px;
     background-color: var(--Softred);
     border: white;
     width: 35%;
-    height: 25%;
+    height: 20%;
 }
 .first-partdsmall button a{
     text-decoration: none;
@@ -96,9 +97,9 @@ nav a:hover{
 }
 
 .second-part{
-    width: 50%;
-    margin-top: -250px;
-    margin-right: 140px;
+    width: 70%;
+    margin-top: -270px;
+    margin-right: 100px;
     padding-left: 15px;
     padding-right:20px ;
     background-color: var(--Verydarkblue);
